@@ -15,7 +15,61 @@ versions:
   free-pro-team: '*'
   enterprise-server: '*'
   github-ae: '*'
----
+---Enterprise Server 3.0 is currently available as a release candidate. For more information, see "About upgrades to new releases."
+GitHub Docs
+English 
+Search topics, products...
+Enterprise Administrators Installing Setting up a GitHub Enterprise Server instance
+Setting up a GitHub Enterprise Server instance
+You can install GitHub Enterprise Server on the supported virtualization platform of your choice.
+
+Installing GitHub Enterprise Server on AWS→
+To install GitHub Enterprise Server on Amazon Web Services (AWS), you must launch an Amazon Elastic Compute Cloud (EC2) instance and create and attach a separate Amazon Elastic Block Store (EBS) data volume.
+
+Installing GitHub Enterprise Server on Azure→
+To install GitHub Enterprise Server on Azure, you must deploy onto a DS-series instance and use Premium-LRS storage.
+
+Installing GitHub Enterprise Server on Google Cloud Platform→
+To install GitHub Enterprise Server on Google Cloud Platform, you must deploy onto a supported machine type and use a persistent standard disk or a persistent SSD.
+
+Installing GitHub Enterprise Server on Hyper-V→
+To install GitHub Enterprise Server on Hyper-V, you must deploy onto a machine running Windows Server 2008 through Windows Server 2016.
+
+Installing GitHub Enterprise Server on OpenStack KVM→
+To install GitHub Enterprise Server on OpenStack KVM, you must have OpenStack access and download the GitHub Enterprise Server QCOW2 image.
+
+Installing GitHub Enterprise Server on VMware→
+To install GitHub Enterprise Server on VMware, you must download the VMware vSphere client, and then download and deploy the GitHub Enterprise Server software.
+
+Installing GitHub Enterprise Server on XenServer→
+To install GitHub Enterprise Server on XenServer, you must deploy the GitHub Enterprise Server disk image to a XenServer host.
+
+Setting up a staging instance→
+You can use a staging instance to test modifications before they are applied to your GitHub Enterprise Server instance. For example, you could use a staging instance to test new GitHub Enterprise Server updates or to practice importing migration data.
+
+Did this doc help you?
+Privacy policy
+
+ 
+
+Help us make these docs great!
+All GitHub docs are open source. See something that's wrong or unclear? Submit a pull request.
+
+Or, learn how to contribute.
+
+Still need help?
+ 
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+Developer API
+Training
+About
 
 
 ### Table of Contents
