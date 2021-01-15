@@ -78,4 +78,4 @@ https://github.com/monalisa/hello_docker
   For example:
   ```shell
   $ docker push ghcr.io/monalisa/hello_docker:latest
-  ```
+  purpose ```
